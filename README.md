@@ -7,6 +7,9 @@
 * [Componentes utilizados](#componentes)
 * [Funcionamento](#funcionamento)
 * [Como usar](#como-usar)
+* [Vídeo](#video)
+* [Código](#codigo)
+* [Autores](#autores)
 
 
 <h2 id="Descricao">Descrição do projeto</h2>
@@ -53,5 +56,16 @@ Figura 1 - Imagem do prototipo
   
   `Sexto`: Esperamos que essa solução forneça às comunidades costeiras e às empresas marítimas informações valiosas sobre a saúde dos oceanos. Com acesso a dados em tempo real e visualizações claras, as pessoas podem tomar decisões mais informadas e contribuir para a preservação dos oceanos.
 
-Vídeo Explicativo
-Para uma explicação mais detalhada sobre o projeto e sua implementação, assista ao nosso vídeo explicativo aqui.
+<h2 id="video">Vídeo</h2>
+
+
+<h2 id="codigo">Codigo</h2>
+
+<h2 id="Autores">Autores</h2>
+
+<div align="center">
+  
+| [<img loading="lazy" src="https://github.com/gvqsilva/CP2-Edge/assets/110639916/d022ed18-0057-4944-9e00-db796c6d2e45" width=115><br><sub>Gabriel Vasquez</sub>](https://github.com/gvqsilva)  |  [<img loading="lazy" src="https://github.com/gvqsilva/CP2-Edge/assets/110639916/4bb3084d-d1ff-4b49-ba37-96c8046f6e14" width=115><br><sub>Gustavo Oliveira</sub>](https://github.com/Gusta346) |
+| :---: | :---: |
+
+</div>
