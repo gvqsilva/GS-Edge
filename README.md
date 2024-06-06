@@ -61,6 +61,7 @@ Figura 1 - Imagem do prototipo
 
 
 <h2 id="codigo">Codigo</h2>
+https://github.com/gvqsilva/GS-Edge/blob/main/codigo-do-projeto/sketch_jun6a.ino
 
 <h2 id="Simulador">Acesso ao simulador</h2>
 https://wokwi.com/projects/399959015744618497
