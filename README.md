@@ -9,6 +9,7 @@
 * [Como usar](#como-usar)
 * [Vídeo](#video)
 * [Código](#codigo)
+* [Acesso ao simulador](#simulador)
 * [Autores](#autores)
 
 
@@ -60,6 +61,9 @@ Figura 1 - Imagem do prototipo
 
 
 <h2 id="codigo">Codigo</h2>
+
+<h2 id="Simulador">Acesso ao simulador</h2>
+https://wokwi.com/projects/399959015744618497
 
 <h2 id="Autores">Autores</h2>
 
