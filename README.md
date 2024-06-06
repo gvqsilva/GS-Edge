@@ -1,5 +1,5 @@
-<p align='center'>
-  <img loading="lazy" src = "https://github.com/gvqsilva/GS-Edge/assets/110639916/5f33af7a-c3f9-4a17-a70b-49b77472b254"/>
+<p align='center' >
+  <img width="250px" loading="lazy" src = "https://github.com/gvqsilva/GS-Edge/assets/110639916/5f33af7a-c3f9-4a17-a70b-49b77472b254"/>
 </p>
 <h1 align="Center">Projeto "Inovação Azul" - Monitoramento da Saúde dos Oceanosb Descrição</h1>
 
