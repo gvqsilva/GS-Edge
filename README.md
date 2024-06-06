@@ -32,6 +32,12 @@
 
 <h2 id="funcionamento">Funcionamento🔨</h2>
 <p>O sistema captura dados dos sensores a intervalos regulares e exibe as leituras em tempo real no LCD. Além disso, os dados são registrados com carimbo de data/hora para análise posterior. Se os valores medidos estiverem fora dos limites predefinidos, o sistema os registra e alerta os usuários.</p>
+<p align = "center">
+<img loading="lazy" width="500px" src = 'https://github.com/gvqsilva/GS-Edge/assets/110639916/b1daa2f9-5d97-439c-a6d6-cb2a2e02b0c7'/>
+</p>
+<p align = "center">
+Figura 1 - Imagem do prototipo
+</p>
 
 <h2 id="como usar">Como Usar📑</h2>
 
