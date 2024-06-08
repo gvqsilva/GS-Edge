@@ -61,7 +61,7 @@ Figura 1 - Imagem do prototipo
   `Sexto`: Esperamos que essa solução forneça às comunidades costeiras e às empresas marítimas informações valiosas sobre a saúde dos oceanos. Com acesso a dados em tempo real e visualizações claras, as pessoas podem tomar decisões mais informadas e contribuir para a preservação dos oceanos.
 
 <h2 id="video">Vídeo</h2>
-
+https://www.youtube.com/watch?v=ZBofYFJGCm4
 
 <h2 id="codigo">Codigo</h2>
 https://github.com/gvqsilva/GS-Edge/blob/main/codigo-do-projeto/sketch_jun6a.ino
